@@ -1,0 +1,18 @@
+{
+  "name": "silkjs",
+  "version": "1.7.0-0",
+  "main": "silk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "silkyway",
+  "license": "ISC",
+  "description": "**Silkymark** is a node package by me, *Silkyway*.\r There are a bunch of methods that I normally use that are annoying to implement every time so I put them in a package.\r # How to Install\r Install by typing `npm i silkjs` in your node project!\r Then use it with `import { SilkJS } from 'silkjs'` if you are using typescript and if you are using javascript\r ## Some Docs\r ### `silkjs.Random`\r #### ```randInt```\r This is your average randInt function with a `max` and `min` value.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silkoway/SilkJS"
+  },
+  "keywords": [
+    "SilkJS"
+  ]
+}
